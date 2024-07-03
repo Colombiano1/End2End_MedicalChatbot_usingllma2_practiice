@@ -1,0 +1,6 @@
+#load the library for computing
+ctransformers==0.25
+sentence-transformers==2.2.2 (for embedding)
+pinecone-client (for vector db)
+langchain==0.0.225
+flask (for frontend)
